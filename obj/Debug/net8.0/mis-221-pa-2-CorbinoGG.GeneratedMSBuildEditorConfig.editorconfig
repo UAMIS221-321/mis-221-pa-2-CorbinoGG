@@ -1,0 +1,13 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = mis_221_pa_2_CorbinoGG
+build_property.ProjectDir = C:\Users\corbi\OneDrive\Desktop\SCHOOL\3_JUNIOR_JOURNEY\SEMESTER_1\MIS 221\PA\PA2\mis-221-pa-2-CorbinoGG\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

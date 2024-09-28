@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "mis-221-pa-2-CorbinoGG/1.0.0": {
+        "runtime": {
+          "mis-221-pa-2-CorbinoGG.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "mis-221-pa-2-CorbinoGG/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
