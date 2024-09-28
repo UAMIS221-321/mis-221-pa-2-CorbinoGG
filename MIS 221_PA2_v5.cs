@@ -407,9 +407,7 @@ class Program{ //start program
 
     //Additional methods for handling
     static void Exit(){
-        Console.WriteLine();
-        Console.WriteLine("Closing the program.");
-        Console.WriteLine();
+        Console.WriteLine("\nClosing the program.\n");
         Environment.Exit(0); //terminates the program
     }
 
